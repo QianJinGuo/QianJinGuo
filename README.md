@@ -14,11 +14,11 @@ I build reliable AI workflows that turn messy signals into useful decisions unde
 - **Rule Alerting** — auditable, human-in-the-loop monitoring workflows.
 - **Category Quality + GEPA** — cross-model LLM evaluation and prompt optimization.
 
-## Public archive
+## Projects in motion
 
-- [knowledge](https://github.com/QianJinGuo/knowledge) · 个人知识体系
-- [LeetCodeAnimation](https://github.com/QianJinGuo/LeetCodeAnimation) · animated algorithm explanations
-- [spark](https://github.com/QianJinGuo/spark) · Apache Spark mirror
-- [OnJava8](https://github.com/QianJinGuo/OnJava8) · 《On Java 8》中文版
+- [wiki](https://github.com/QianJinGuo/wiki) · LLM Wiki / personal knowledge base
+- [wiki-book](https://github.com/QianJinGuo/wiki-book) · 《AI 第一书》 · AI engineering guide
+- [spark-to-paper-skills](https://github.com/QianJinGuo/spark-to-paper-skills) · papers to experiments to draft
+- [EvoScientist](https://github.com/QianJinGuo/EvoScientist) · self-evolving AI research harness
 
 <sub>SuZhou · UTC+08</sub>
