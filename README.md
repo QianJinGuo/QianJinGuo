@@ -1,18 +1,24 @@
-### Hi there 👋
+# QianJinGuo
 
-<!--
-**QianJinGuo/QianJinGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stay thinking, Stay coding.**
 
-Here are some ideas to get you started:
+I build reliable AI workflows that turn messy signals into useful decisions under real-world constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![QianJinGuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=QianJinGuo&show_icons=true&theme=radical)
+**Current focus:** Applied AI · LLM systems · Reliable delivery
 
+[Open the profile page →](https://qianjinguo.github.io/QianJinGuo/)
+
+## Selected work
+
+- **Checkout Recommendation** — contextual recommendation under real-time constraints.
+- **Rule Alerting** — auditable, human-in-the-loop monitoring workflows.
+- **Category Quality + GEPA** — cross-model LLM evaluation and prompt optimization.
+
+## Public archive
+
+- [knowledge](https://github.com/QianJinGuo/knowledge) · 个人知识体系
+- [LeetCodeAnimation](https://github.com/QianJinGuo/LeetCodeAnimation) · animated algorithm explanations
+- [spark](https://github.com/QianJinGuo/spark) · Apache Spark mirror
+- [OnJava8](https://github.com/QianJinGuo/OnJava8) · 《On Java 8》中文版
+
+<sub>SuZhou · UTC+08</sub>
