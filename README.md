@@ -21,4 +21,4 @@ I build reliable AI workflows that turn messy signals into useful decisions unde
 - [spark-to-paper-skills](https://github.com/QianJinGuo/spark-to-paper-skills) · papers to experiments to draft
 - [EvoScientist](https://github.com/QianJinGuo/EvoScientist) · self-evolving AI research harness
 
-<sub>SuZhou · UTC+08</sub>
+<sub>Shanghai · UTC+08</sub>
