@@ -17,7 +17,7 @@ I build reliable AI workflows that turn messy signals into useful decisions unde
 ## Projects in motion
 
 - [wiki](https://github.com/QianJinGuo/wiki) · LLM Wiki / personal knowledge base
-- [wiki-book](https://github.com/QianJinGuo/wiki-book) · 《AI 第一书》 · AI engineering guide
+- [wiki-book](https://github.com/QianJinGuo/wiki-book) · AI engineering guide
 - [spark-to-paper-skills](https://github.com/QianJinGuo/spark-to-paper-skills) · papers to experiments to draft
 - [EvoScientist](https://github.com/QianJinGuo/EvoScientist) · self-evolving AI research harness
 
