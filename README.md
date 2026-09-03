@@ -12,14 +12,6 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/QianJinGuo"><img src="https://img.shields.io/github/followers/QianJinGuo?style=flat-square&label=followers&color=0EA5E9&labelColor=0F172A" alt="GitHub followers" /></a>
-  <a href="https://github.com/QianJinGuo/wiki-book"><img src="https://img.shields.io/github/stars/QianJinGuo/wiki-book?style=flat-square&label=wiki-book%20stars&color=7C3AED&labelColor=0F172A" alt="wiki-book stars" /></a>
-  <a href="https://qianjinguo.github.io/QianJinGuo/"><img src="https://img.shields.io/badge/PROFILE%20SITE-LIVE-22C55E?style=flat-square&labelColor=0F172A" alt="Profile site live" /></a>
-</div>
-
-<br />
-
 ## `whoami`
 
 I build reliable AI workflows that turn messy signals into useful decisions under real-world constraints.
