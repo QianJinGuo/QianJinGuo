@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:7C3AED&height=230&section=header&text=QianJinGuo&fontSize=58&fontColor=F8FAFC&fontAlignY=35&animation=fadeIn&desc=Applied%20AI%20%7C%20LLM%20Systems%20%7C%20Reliable%20Delivery&descAlignY=60&descSize=18" alt="QianJinGuo — Applied AI, LLM systems, reliable delivery" />
   <br />
-  <a href="https://qianjinguo.github.io/QianJinGuo/">
+  <a href="https://qianjinguo.github.io/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Turning+messy+signals+into+useful+decisions;Building+AI+workflows+that+stay+legible+under+pressure;Stay+thinking+%C2%B7+Stay+coding" alt="Turning messy signals into useful decisions" />
   </a>
   <br /><br />
@@ -111,7 +111,7 @@ My throughline is simple: **make complex systems useful, measurable, and legible
 <br />
 
 <div align="center">
-  <a href="https://qianjinguo.github.io/QianJinGuo/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://qianjinguo.github.io/"><img src="https://img.shields.io/badge/PERSONAL%20SITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal site" /></a>
   <a href="https://github.com/QianJinGuo"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://jinguo.tech"><img src="https://img.shields.io/badge/AI%20ENGINEERING-0F172A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="AI Engineering book" /></a>
 </div>
