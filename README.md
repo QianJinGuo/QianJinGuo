@@ -101,11 +101,23 @@ My throughline is simple: **make complex systems useful, measurable, and legible
 
 ## `github` → pulse
 
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/QianJinGuo?tab=overview"><strong>LIVE ACTIVITY ↗</strong></a><br />
+      <sub>Contributions, pinned work, and current momentum</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/QianJinGuo?tab=repositories"><strong>LANGUAGE MAP ↗</strong></a><br />
+      <sub>Browse the repositories behind the projects</sub>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=QianJinGuo&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=0EA5E9&text_color=94A3B8&icon_color=7C3AED&ring_color=0EA5E9&custom_title=QianJinGuo%20%2F%20GitHub%20pulse" alt="QianJinGuo GitHub stats" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=QianJinGuo&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=00000000&title_color=0EA5E9&text_color=94A3B8" alt="QianJinGuo top languages" />
-  <br /><br />
-  <img width="90%" src="https://streak-stats.demolab.com/?user=QianJinGuo&theme=transparent&hide_border=true&ring=0EA5E9&fire=7C3AED&currStreakLabel=0EA5E9&sideLabels=94A3B8&dates=94A3B8" alt="QianJinGuo contribution streak" />
+  <a href="https://github.com/QianJinGuo?tab=overview">
+    <img width="90%" src="https://streak-stats.demolab.com/?user=QianJinGuo&theme=transparent&hide_border=true&ring=0EA5E9&fire=7C3AED&currStreakLabel=0EA5E9&sideLabels=94A3B8&dates=94A3B8" alt="QianJinGuo contribution streak" />
+  </a>
 </div>
 
 <br />
