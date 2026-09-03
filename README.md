@@ -63,9 +63,9 @@ My throughline is simple: **make complex systems useful, measurable, and legible
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/QianJinGuo/wiki">wiki</a></h3>
-      <p>Personal knowledge base for turning reading into a searchable, reusable system.</p>
-      <code>Python</code> <code>Knowledge</code> <code>LLM</code>
+      <h3>🧰 <a href="https://github.com/QianJinGuo/oss-bootstrap">oss-bootstrap</a></h3>
+      <p>A GitHub-ready open-source project bootstrapper with templates, CI, and evaluation cases.</p>
+      <code>Python</code> <code>Open Source</code> <code>CI</code>
     </td>
     <td width="50%" valign="top">
       <h3>📖 <a href="https://github.com/QianJinGuo/wiki-book">wiki-book</a></h3>
