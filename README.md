@@ -63,9 +63,9 @@ My throughline is simple: **make complex systems useful, measurable, and legible
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧰 <a href="https://github.com/QianJinGuo/oss-bootstrap">oss-bootstrap</a></h3>
-      <p>A GitHub-ready open-source project bootstrapper with templates, CI, and evaluation cases.</p>
-      <code>Python</code> <code>Open Source</code> <code>CI</code>
+      <h3>🧾 <a href="https://github.com/QianJinGuo/trustwiki">trustwiki</a></h3>
+      <p>A provenance linter for agent-maintained knowledge bases — every claim cited, contradictions surfaced, rot detected.</p>
+      <code>JavaScript</code> <code>Provenance</code> <code>Knowledge Bases</code>
     </td>
     <td width="50%" valign="top">
       <h3>📖 <a href="https://github.com/QianJinGuo/wiki-book">wiki-book</a></h3>
@@ -75,9 +75,9 @@ My throughline is simple: **make complex systems useful, measurable, and legible
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/QianJinGuo/spark-to-paper-skills">spark-to-paper-skills</a></h3>
-      <p>A research workflow that moves from papers to experiments to a draft.</p>
-      <code>Research</code> <code>Agents</code> <code>Writing</code>
+      <h3>💸 <a href="https://github.com/QianJinGuo/agent-memory-tax">agent-memory-tax</a></h3>
+      <p>A forensic on one real agent session — naive counting inflates input 3.3×, and 89% of traffic is cache reads.</p>
+      <code>Agent Costs</code> <code>Context Engineering</code> <code>LLM Observability</code>
     </td>
     <td width="50%" valign="top">
       <h3>🧬 <a href="https://github.com/QianJinGuo/EvoScientist">EvoScientist</a></h3>
