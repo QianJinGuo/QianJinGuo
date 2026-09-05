@@ -80,6 +80,8 @@ My throughline is simple: **make complex systems useful, measurable, and legible
 
 **Also:** [wiki-public](https://github.com/QianJinGuo/wiki-public) (public mirror of the LLM wiki) · [promptqueue](https://github.com/QianJinGuo/promptqueue) (async task queue for AI prompts) · [data-agent](https://github.com/QianJinGuo/data-agent) (NL2SQL agent on LangGraph) · [anti-ai-style-factory](https://github.com/QianJinGuo/anti-ai-style-factory) · [routine-demo](https://github.com/QianJinGuo/routine-demo)
 
+**Contributing:** [langgenius/dify](https://github.com/langgenius/dify) — active issue tracking & PR review from [my fork](https://github.com/QianJinGuo/dify).
+
 <div align="center">
   <a href="https://github.com/QianJinGuo?tab=repositories">→ Explore the full repository archive</a>
 </div>
