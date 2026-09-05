@@ -55,7 +55,7 @@ My throughline is simple: **make complex systems useful, measurable, and legible
   <tr>
     <td width="50%" valign="top">
       <h3>📖 <a href="https://github.com/QianJinGuo/wiki-book">wiki-book</a></h3>
-      <p>《AI 工程》— an open-source AI Engineering book compiled from <strong>4,000+ primary sources</strong>: LLMs, Agents, RAG, MCP, infra, security. <strong>2,153 entries</strong>, difficulty-rated, updated daily. <a href="https://jinguo.tech">Read online → jinguo.tech</a></p>
+      <p>《AI 工程》— an open-source AI Engineering book curated from thousands of first-hand sources: LLMs, Agents, RAG, MCP, infra, security. <strong>2,200+ curated entries</strong>, difficulty-rated, updated daily. <a href="https://jinguo.tech">Read online → jinguo.tech</a></p>
       <code>Python</code> <code>RAG</code> <code>MCP</code> <code>CC BY-SA</code>
     </td>
     <td width="50%" valign="top">
